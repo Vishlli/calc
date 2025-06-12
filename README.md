@@ -1,4 +1,4 @@
-# calc
+
 # 🧮 Web Calculator with Scientific Functions
 
 A minimalist and modern calculator web app built with **Express.js**, **HTML**, **CSS**, and **Math.js**. Features both basic and scientific operations like sin, cos, tan, log, ln, square root, and exponentiation.
